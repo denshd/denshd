@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @denshd
-- 👀 I’m interested in `theoretical phycics`, `fundamental mathematics` and `applied mathematics`, `computing`, `quantum computing`
-- 🌱 Bachelor degree in Theoretical physics `(NRNU MEPhI, Moscow)`; studying math at `MSU, Moscow`
-- 📫 How to reach me: denshd@yandex.ru
+
